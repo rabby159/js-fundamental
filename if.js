@@ -5,7 +5,6 @@
  *      implementation code if condition is a not-match.
  * }
  */
-
 const myHeadphonePrice = 1899;
 
 if (myHeadphonePrice > 4000) {
@@ -27,7 +26,9 @@ if (mySalary > 20000 && age > 21 && IsGraduation === true) {
 
 // ---------------------------OR----------------------------------------------------
 if (mySalary > 30000 || age > 21 || IsGraduation === true) {
-  console.log("bibho joggo");
+//   console.log("bibho joggo");
 } else {
-  console.log("tr dara hbe nah");
+//   console.log("tr dara hbe nah");
 }
+// ---------------------------OR----------------------------------------------------
+
