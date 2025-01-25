@@ -9,6 +9,6 @@ const myInfo ={
     }
 }
 
-myInfo.name = 'md rabby'
+const keys = Object.keys(myInfo)
+console.log(keys);
 
-console.log(myInfo);

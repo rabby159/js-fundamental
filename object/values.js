@@ -9,6 +9,6 @@ const myInfo ={
     }
 }
 
-myInfo.name = 'md rabby'
+const values = Object.values(myInfo.university)
+console.log(values);
 
-console.log(myInfo);
