@@ -26,8 +26,8 @@ while (num <= 100) {
 let num2 = 78;
 
 while (num2 <= 98) {
-    if (num2 % 2 === 0) {
-      console.log("This num is Even Number", num2);
-    }
-    num2++;
+  if (num2 % 2 === 0) {
+    console.log("This num is Even Number", num2);
   }
+  num2++;
+}
